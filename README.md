@@ -33,5 +33,8 @@ This repository contains a simple Arduino code to display bit-images on a 1.3" I
 | STM32 (Blue Pill)                 | PB7        | PB6        | 3.3V    |
 
 ---
-![Skeleton](example-images/10000149320.jpg)
+![Skeleton](example-images/1000149320.jpg)
 ![Pirate](example-images/1000149318.jpg)
+![Pirate](example-images/1000149323.jpg)
+![Pirate](example-images/1000149332.jpg)
+
