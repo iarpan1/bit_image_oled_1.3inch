@@ -33,14 +33,5 @@ This repository contains a simple Arduino code to display bit-images on a 1.3" I
 | STM32 (Blue Pill)                 | PB7        | PB6        | 3.3V    |
 
 ---
-
-## Common I²C Devices
-
-| Device            | Voltage   | Notes                                  |
-| ----------------- | --------- | -------------------------------------- |
-| OLED 0.96" / 1.3" | 3.3V / 5V | SH1106 or SSD1306, often 128×64        |
-| MPU6050 / MPU9250 | 3.3V / 5V | Motion sensor                          |
-| DS3231            | 3.3V / 5V | Real-time clock                        |
-| BH1750            | 3.3V / 5V | Light sensor                           |
-| BME280            | 3.3V / 5V | Temperature, humidity, pressure sensor |
-| PCF8574 / PCA9685 | 3.3V / 5V | IO expanders, servo driver             |
+![Skeleton](example-images/10000149320.jpg)
+![Pirate](example-images/1000149318.jpg)
